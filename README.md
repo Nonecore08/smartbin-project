@@ -1,3 +1,4 @@
+C:\Users\<your-name>\Downloads\smartbin-backend
 # smartbin-project
 # React + TypeScript + Vite
 
